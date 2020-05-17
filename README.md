@@ -8,4 +8,4 @@ The idea came from the repository
 
 
 ### Demo
-[Preview Application](https://igorac.github.io/bin2dec/)
+<a href="https://igorac.github.io/bin2dec/" target="_blank">Preview Application</a>
